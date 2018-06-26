@@ -1,7 +1,7 @@
 # Functional-Programming-II
 
 
-1) Let’s say you run a company and you’ve just decided to give all your employees a $10,000.00 raise. Lets implement this functional programming. 
+1) Let’s say you run a company and you’ve just decided to give all your employees a $10,000.00 raise. Lets implement this using functional programming. 
 
    ``` def change_salary(salary,amt): ```
 
