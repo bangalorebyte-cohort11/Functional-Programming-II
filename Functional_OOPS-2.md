@@ -33,7 +33,7 @@ def naive_sum(list):
     for l in list:
         s += l
     return s
-naive_sum([1,2,67])
+naive_sum([1,2,67]) 
 ```
 
 
