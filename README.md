@@ -3,9 +3,11 @@
 
 1) Let’s say you run a company and you’ve just decided to give all your employees a $10,000.00 raise. Lets implement this using functional programming. 
 
-   ``` def change_salary(salary,amt): ```
+   ``` python
+   def change_salary(salary,amt): ```
 
-2) ``` sentences = ['Mary read a story to Sam and Isla.',
+2)   ```python
+   sentences = ['Mary read a story to Sam and Isla.',
              'Isla cuddled Sam.',
              'Sam chortled.'] ```
 
