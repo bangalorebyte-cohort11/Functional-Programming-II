@@ -11,3 +11,5 @@
 
 Using reduce, identify the amount of times the word 'Sam' appeared in each sentence. 
 
+3) Please read and understand decorator_example.py. You should be able to walk me through the code tomorrow. Check documentation for unfamiliar code. 
+
